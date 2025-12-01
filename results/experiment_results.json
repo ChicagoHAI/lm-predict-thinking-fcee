@@ -1,0 +1,502 @@
+[
+  {
+    "instruction": "Give me a method to poach chicken",
+    "context": "",
+    "predicted_length": 75.0,
+    "predicted_bin": "Medium",
+    "actual_length": 589,
+    "actual_bin": "Long",
+    "actual_text": "Poaching chicken is a simple and healthy cooking method that results in tender, juicy meat. Here\u2019s a step-by-step guide to poaching chicken:\n\n### Ingredients:\n- Chicken breasts (boneless, skinless)\n- Water or chicken broth\n- Aromatics (optional): onion, garlic, herbs (like thyme, parsley, or bay leaves), peppercorns, lemon slices, or any other flavorings you prefer\n- Salt (to taste)\n\n### Equipment:\n- A large pot or saucepan\n- A thermometer (optional, but helpful)\n\n### Instructions:\n\n1. **Prepare the Chicken:**\n   - If the chicken breasts are uneven in thickness, you may want to pound them to an even thickness for more uniform cooking.\n\n2. **Choose Your Liquid:**\n   - In a large pot, add enough water or chicken broth to cover the chicken breasts completely. You can use a combination of both for added flavor.\n\n3. **Add Aromatics:**\n   - Add your choice of aromatics to the pot. This could include sliced onion, crushed garlic cloves, herbs, peppercorns, and lemon slices. These will infuse flavor into the chicken as it cooks.\n\n4. **Season the Liquid:**\n   - Add salt to the liquid. A good rule of thumb is about 1 teaspoon of salt per quart of water or broth, but you can adjust to your taste.\n\n5. **Heat the Liquid:**\n   - Bring the liquid to a gentle simmer over medium heat. Avoid boiling, as this can make the chicken tough.\n\n6. **Add the Chicken:**\n   - Once the liquid is simmering, carefully add the chicken breasts to the pot. Ensure they are fully submerged in the liquid.\n\n7. **Poach the Chicken:**\n   - Reduce the heat to low, cover the pot, and let the chicken poach gently. Cooking time will vary depending on the size of the chicken breasts, but it typically takes about 15-20 minutes. The internal temperature should reach 165\u00b0F (75\u00b0C).\n\n8. **Check for Doneness:**\n   - Use a meat thermometer to check the internal temperature. If you don\u2019t have one, you can cut into the thickest part of the chicken to ensure it\u2019s no longer pink and the juices run clear.\n\n9. **Remove and Rest:**\n   - Once cooked, carefully remove the chicken from the pot and let it rest for a few minutes before slicing or shredding. This helps retain moisture.\n\n10. **Use the Poaching Liquid:**\n    - You can strain the poaching liquid and use it as a base for soups, sauces, or to cook grains.\n\n### Tips:\n- For added flavor, you can marinate the chicken in a mixture of herbs and spices before poaching.\n- Poached chicken can be used in salads, sandwiches, or served with various sauces.\n\nEnjoy your perfectly poached chicken!",
+    "prediction_raw": "75"
+  },
+  {
+    "instruction": "What is a NFT?",
+    "context": "",
+    "predicted_length": 50.0,
+    "predicted_bin": "Medium",
+    "actual_length": 271,
+    "actual_bin": "Long",
+    "actual_text": "A Non-Fungible Token (NFT) is a unique digital asset that represents ownership or proof of authenticity of a specific item or piece of content, typically using blockchain technology. Unlike cryptocurrencies such as Bitcoin or Ethereum, which are fungible and can be exchanged for one another, NFTs are one-of-a-kind and cannot be exchanged on a one-to-one basis.\n\nNFTs can represent a wide range of digital items, including:\n\n1. **Art**: Digital artwork can be tokenized as an NFT, allowing artists to sell their work directly to collectors.\n2. **Music**: Musicians can release their songs or albums as NFTs, providing a new way to monetize their work.\n3. **Videos**: Short films, clips, or even entire movies can be sold as NFTs.\n4. **Virtual Real Estate**: Digital land or properties in virtual worlds can be bought and sold as NFTs.\n5. **Collectibles**: Digital trading cards, in-game items, and other collectibles can be represented as NFTs.\n\nThe ownership and transaction history of NFTs are recorded on a blockchain, which ensures transparency and security. This technology allows creators to retain control over their work and provides buyers with proof of ownership. NFTs have gained significant popularity, especially in the art and entertainment industries, but they also raise questions about copyright, environmental impact, and market speculation.",
+    "prediction_raw": "50"
+  },
+  {
+    "instruction": "Best beach vacation in the world",
+    "context": "",
+    "predicted_length": 50.0,
+    "predicted_bin": "Medium",
+    "actual_length": 517,
+    "actual_bin": "Long",
+    "actual_text": "Choosing the best beach vacation in the world can be subjective, as it often depends on personal preferences such as scenery, activities, and culture. However, here are some of the most highly regarded beach destinations that are often considered among the best:\n\n1. **Maldives**: Known for its stunning overwater bungalows, crystal-clear waters, and vibrant marine life, the Maldives is a paradise for those seeking luxury and tranquility.\n\n2. **Bora Bora, French Polynesia**: Famous for its turquoise lagoon and dramatic volcanic mountains, Bora Bora offers breathtaking views and a romantic atmosphere, making it a popular honeymoon destination.\n\n3. **Maui, Hawaii**: With diverse landscapes, beautiful beaches, and plenty of outdoor activities, Maui is perfect for both relaxation and adventure. Don\u2019t miss the scenic Road to Hana and Haleakal\u0101 National Park.\n\n4. **Seychelles**: This archipelago in the Indian Ocean boasts pristine beaches, lush jungles, and unique granite boulders. Anse Source d'Argent on La Digue is often cited as one of the most beautiful beaches in the world.\n\n5. **Phuket, Thailand**: Known for its vibrant nightlife, stunning beaches, and rich culture, Phuket offers a mix of relaxation and adventure. Patong Beach is popular for its lively atmosphere, while Kata and Karon beaches are more laid-back.\n\n6. **Amalfi Coast, Italy**: While not a traditional beach destination, the Amalfi Coast features stunning coastal views, charming villages, and beautiful beaches like Positano and Amalfi, perfect for a picturesque getaway.\n\n7. **Tulum, Mexico**: Known for its bohemian vibe, Tulum offers beautiful beaches, ancient Mayan ruins, and eco-friendly resorts. The beach is perfect for relaxation, yoga, and exploring cenotes.\n\n8. **Bondi Beach, Australia**: Famous for its surf culture, Bondi Beach is a vibrant destination with a lively atmosphere, great restaurants, and beautiful coastal walks.\n\n9. **Whitehaven Beach, Australia**: Located in the Whitsunday Islands, Whitehaven Beach is renowned for its pure white silica sand and stunning blue waters, making it a must-visit for beach lovers.\n\n10. **Zanzibar, Tanzania**: With its stunning beaches, rich history, and vibrant culture, Zanzibar offers a unique blend of relaxation and exploration. Nungwi and Kendwa beaches are particularly popular.\n\nEach of these destinations offers something unique, so the best choice will depend on what kind of beach experience you\u2019re looking for!",
+    "prediction_raw": "50"
+  },
+  {
+    "instruction": "Name some famous hindi film actors",
+    "context": "",
+    "predicted_length": 15.0,
+    "predicted_bin": "Short",
+    "actual_length": 129,
+    "actual_bin": "Medium",
+    "actual_text": "Sure! Here are some famous Hindi film actors:\n\n1. Amitabh Bachchan\n2. Shah Rukh Khan\n3. Aamir Khan\n4. Salman Khan\n5. Hrithik Roshan\n6. Akshay Kumar\n7. Ranbir Kapoor\n8. Ranveer Singh\n9. Ajay Devgn\n10. Varun Dhawan\n11. Priyanka Chopra\n12. Deepika Padukone\n13. Kareena Kapoor Khan\n14. Alia Bhatt\n15. Vidya Balan\n\nThese actors have made significant contributions to the Hindi film industry and have a large fan following.",
+    "prediction_raw": "15"
+  },
+  {
+    "instruction": "What is the birthday problem?",
+    "context": "",
+    "predicted_length": 75.0,
+    "predicted_bin": "Medium",
+    "actual_length": 385,
+    "actual_bin": "Long",
+    "actual_text": "The birthday problem, also known as the birthday paradox, is a famous problem in probability theory that explores the likelihood of two or more people sharing the same birthday in a group. The counterintuitive aspect of the problem is that the probability of shared birthdays increases significantly with relatively small group sizes.\n\nThe classic formulation of the problem is as follows: In a group of \\( n \\) people, what is the probability that at least two people share the same birthday? Assuming there are 365 days in a year and that each birthday is equally likely (ignoring leap years), the problem can be analyzed using complementary counting.\n\nTo find the probability that at least two people share a birthday, it is often easier to first calculate the probability that no one shares a birthday and then subtract that from 1.\n\n1. For the first person, there are 365 possible birthdays.\n2. For the second person, to avoid sharing a birthday with the first, there are 364 choices.\n3. For the third person, there are 363 choices, and so on.\n\nThe probability \\( P(n) \\) that no two people in a group of \\( n \\) share a birthday can be calculated as:\n\n\\[\nP(n) = \\frac{365}{365} \\times \\frac{364}{365} \\times \\frac{363}{365} \\times \\ldots \\times \\frac{365 - n + 1}{365}\n\\]\n\nThe probability that at least two people share a birthday is then:\n\n\\[\nP(\\text{at least one shared}) = 1 - P(n)\n\\]\n\nSurprisingly, with just 23 people in a room, the probability of at least two people sharing a birthday exceeds 50%. This result often surprises people, hence the term \"paradox.\" The probability continues to increase with larger group sizes, reaching over 99% with just 70 people.",
+    "prediction_raw": "75"
+  },
+  {
+    "instruction": "What is a SCOBY in kombucha making?",
+    "context": "",
+    "predicted_length": 50.0,
+    "predicted_bin": "Medium",
+    "actual_length": 201,
+    "actual_bin": "Long",
+    "actual_text": "A SCOBY, which stands for \"Symbiotic Culture of Bacteria and Yeast,\" is a gelatinous, pancake-like mass that is essential for making kombucha, a fermented tea beverage. The SCOBY is responsible for the fermentation process, where it converts sugars in the sweetened tea into acids, gases, and alcohol. \n\nThe SCOBY contains a variety of beneficial bacteria and yeast that work together symbiotically. The yeast ferments the sugars, producing alcohol and carbon dioxide, while the bacteria convert the alcohol into acetic acid and other compounds, giving kombucha its characteristic tangy flavor. \n\nWhen making kombucha, the SCOBY is added to a mixture of brewed tea and sugar, and it ferments for a period of time, typically one to two weeks, depending on the desired flavor and level of carbonation. After fermentation, the SCOBY can be reused for future batches, and it may also produce additional SCOBYs, which can be shared or used for other purposes.",
+    "prediction_raw": "50"
+  },
+  {
+    "instruction": "Why do kids like to play video games so much these days?",
+    "context": "",
+    "predicted_length": 150.0,
+    "predicted_bin": "Medium",
+    "actual_length": 374,
+    "actual_bin": "Long",
+    "actual_text": "Kids today are drawn to video games for several reasons:\n\n1. **Engaging Gameplay**: Many video games are designed to be highly engaging, with immersive storylines, challenging gameplay, and rewarding mechanics that keep players coming back for more.\n\n2. **Social Interaction**: Online multiplayer games allow kids to connect and play with friends or meet new people, fostering social interaction and teamwork. This aspect can be particularly appealing in an increasingly digital world.\n\n3. **Variety of Genres**: The vast array of game genres\u2014from action and adventure to puzzles and simulations\u2014means there\u2019s something for everyone. Kids can find games that match their interests and preferences.\n\n4. **Sense of Achievement**: Video games often provide a sense of accomplishment through leveling up, completing missions, or earning rewards. This can be very satisfying and motivating for players.\n\n5. **Creative Expression**: Many games encourage creativity, whether through building, customizing characters, or storytelling. This allows kids to express themselves in unique ways.\n\n6. **Accessibility**: With the rise of mobile gaming and affordable consoles, video games are more accessible than ever. Kids can play on various devices, making it easy to fit gaming into their daily routines.\n\n7. **Cultural Influence**: Video games are a significant part of modern culture, with popular titles often becoming part of mainstream conversations. Kids may be drawn to games to feel included in these cultural trends.\n\n8. **Learning Opportunities**: Many games incorporate educational elements, teaching problem-solving, critical thinking, and even history or science in an engaging way.\n\n9. **Escapism**: Video games can provide an escape from reality, allowing kids to immerse themselves in different worlds and experiences, which can be particularly appealing during stressful times.\n\nOverall, the combination of entertainment, social interaction, and personal growth makes video games a popular choice for kids today.",
+    "prediction_raw": "150"
+  },
+  {
+    "instruction": "Where was the first capital of Alaska?",
+    "context": "",
+    "predicted_length": 10.0,
+    "predicted_bin": "Short",
+    "actual_length": 50,
+    "actual_bin": "Medium",
+    "actual_text": "The first capital of Alaska was Sitka. It served as the capital when Alaska was a Russian territory and continued to be the capital after the United States purchased Alaska in 1867. The capital was later moved to Juneau in 1906.",
+    "prediction_raw": "10"
+  },
+  {
+    "instruction": "What were the top 3 best-selling PlayStation 2 video games?",
+    "context": "",
+    "predicted_length": 15.0,
+    "predicted_bin": "Short",
+    "actual_length": 162,
+    "actual_bin": "Medium",
+    "actual_text": "The top three best-selling PlayStation 2 video games are:\n\n1. **Grand Theft Auto: San Andreas** - Released in 2004, this open-world action-adventure game became immensely popular and is often regarded as one of the greatest video games of all time.\n\n2. **Gran Turismo 3: A-Spec** - Launched in 2001, this racing simulation game was a major success and showcased the capabilities of the PlayStation 2, contributing to its popularity.\n\n3. **Grand Theft Auto: Vice City** - Released in 2002, this game is set in a fictional city inspired by Miami and became a fan favorite for its engaging story and vibrant setting.\n\nThese titles are known for their significant sales figures and impact on gaming culture during the PlayStation 2 era.",
+    "prediction_raw": "15"
+  },
+  {
+    "instruction": "Where is Hesse's Demi Bastion",
+    "context": "",
+    "predicted_length": 12.0,
+    "predicted_bin": "Short",
+    "actual_length": 86,
+    "actual_bin": "Medium",
+    "actual_text": "Hesse's Demi Bastion is located in the city of Mainz, Germany. It is part of the city's historical fortifications and was constructed in the 19th century as part of the defensive works of the city. The bastion is named after the Grand Duchy of Hesse, which played a significant role in the region's history. If you need more specific information about its history or significance, feel free to ask!",
+    "prediction_raw": "12"
+  },
+  {
+    "instruction": "Give me a list of benefits of swimming",
+    "context": "",
+    "predicted_length": 75.0,
+    "predicted_bin": "Medium",
+    "actual_length": 509,
+    "actual_bin": "Long",
+    "actual_text": "Swimming offers a wide range of benefits for both physical and mental health. Here are some key advantages:\n\n### Physical Benefits\n1. **Full-Body Workout**: Engages multiple muscle groups, providing a comprehensive workout.\n2. **Cardiovascular Health**: Improves heart and lung function, enhancing overall cardiovascular fitness.\n3. **Low Impact**: Gentle on the joints, making it suitable for people of all ages and fitness levels, including those with injuries or arthritis.\n4. **Increased Flexibility**: Promotes flexibility through a wide range of motion in the water.\n5. **Weight Management**: Aids in burning calories and can help with weight loss or maintenance.\n6. **Muscle Tone**: Builds and tones muscles, particularly in the core, arms, and legs.\n7. **Improved Endurance**: Enhances stamina and endurance over time.\n8. **Better Coordination**: Improves coordination and balance through various strokes and movements.\n9. **Enhanced Lung Capacity**: Strengthens respiratory muscles and increases lung capacity.\n\n### Mental Benefits\n1. **Stress Relief**: Reduces stress and anxiety levels, promoting relaxation.\n2. **Improved Mood**: Releases endorphins, which can enhance mood and combat depression.\n3. **Mindfulness**: Encourages a meditative state, helping to clear the mind and improve focus.\n4. **Social Interaction**: Provides opportunities for socializing, whether in classes, clubs, or casual swimming with friends.\n\n### Health Benefits\n1. **Chronic Disease Management**: Can help manage conditions like diabetes, asthma, and heart disease.\n2. **Improved Sleep**: Regular swimming can lead to better sleep quality.\n3. **Boosted Immune System**: Regular physical activity can enhance immune function.\n4. **Therapeutic Benefits**: Water therapy can aid in rehabilitation and recovery from injuries.\n\n### Lifelong Skill\n1. **Safety**: Learning to swim is a crucial life skill that can prevent drowning and enhance water safety.\n2. **Accessibility**: Swimming can be enjoyed at various locations, including pools, lakes, and oceans, making it a versatile activity.\n\n### Enjoyment and Recreation\n1. **Fun Activity**: Swimming can be a pleasurable and enjoyable way to stay active.\n2. **Variety of Styles**: Offers different strokes and techniques, keeping workouts interesting and engaging.\n\nIncorporating swimming into your routine can lead to a healthier, more balanced lifestyle while providing enjoyment and relaxation.",
+    "prediction_raw": "75"
+  },
+  {
+    "instruction": "How many stories is the Empire State Building?",
+    "context": "",
+    "predicted_length": 12.0,
+    "predicted_bin": "Short",
+    "actual_length": 9,
+    "actual_bin": "Short",
+    "actual_text": "The Empire State Building has 102 stories.",
+    "prediction_raw": "12"
+  },
+  {
+    "instruction": "Why are dogs so good at smelling?",
+    "context": "",
+    "predicted_length": 75.0,
+    "predicted_bin": "Medium",
+    "actual_length": 402,
+    "actual_bin": "Long",
+    "actual_text": "Dogs have an extraordinary sense of smell due to several anatomical and physiological adaptations that enhance their olfactory capabilities. Here are some key reasons why dogs are so good at smelling:\n\n1. **Olfactory Receptors**: Dogs have approximately 220 million olfactory receptors in their noses, compared to about 5 million in humans. This vast number of receptors allows them to detect a wide range of scents.\n\n2. **Olfactory Bulb**: The part of a dog's brain that processes smells, known as the olfactory bulb, is proportionally much larger than that of humans. This allows dogs to analyze and interpret scents more effectively.\n\n3. **Jacobsen's Organ**: Dogs possess a specialized organ called the vomeronasal organ (or Jacobsen's organ), which helps them detect pheromones and other chemical signals, enhancing their ability to sense social and environmental cues.\n\n4. **Nasal Structure**: The structure of a dog's nose is highly specialized. The nasal cavity has complex folds and turbinates that increase the surface area for scent detection. This design helps trap and analyze scent particles more efficiently.\n\n5. **Breathing Mechanism**: Dogs have a unique breathing mechanism that allows them to separate inhaled air into two pathways: one for breathing and one for smelling. This means they can continuously sniff while also breathing, maximizing their ability to detect scents.\n\n6. **Scent Memory**: Dogs have an excellent memory for scents, allowing them to recognize and remember specific smells over time. This ability is crucial for tracking and hunting.\n\n7. **Training and Experience**: Dogs can be trained to enhance their natural scenting abilities. Working dogs, such as search and rescue, detection, and hunting dogs, are often trained to identify specific scents, further improving their olfactory skills.\n\nThese adaptations make dogs incredibly proficient at detecting scents, which is why they are often used in various roles, such as search and rescue, detection of drugs or explosives, and even medical diagnosis.",
+    "prediction_raw": "75"
+  },
+  {
+    "instruction": "What are some of the oldest civilizations starting?",
+    "context": "",
+    "predicted_length": 50.0,
+    "predicted_bin": "Medium",
+    "actual_length": 413,
+    "actual_bin": "Long",
+    "actual_text": "Some of the oldest known civilizations in human history include:\n\n1. **Sumer (Mesopotamia)**: Often considered the world's first civilization, Sumer emerged around 4500 BCE in the southern part of modern-day Iraq. The Sumerians developed cuneiform writing, built city-states like Ur and Uruk, and made significant advances in agriculture, mathematics, and astronomy.\n\n2. **Ancient Egypt**: The civilization of ancient Egypt began around 3100 BCE, with the unification of Upper and Lower Egypt under the first pharaoh. Known for its monumental architecture, including the pyramids and temples, ancient Egypt made significant contributions to writing (hieroglyphics), art, and governance.\n\n3. **Indus Valley Civilization**: This civilization flourished around 2500 BCE in what is now Pakistan and northwest India. The Indus Valley Civilization is known for its advanced urban planning, including well-organized cities like Harappa and Mohenjo-Daro, as well as its sophisticated drainage systems and trade networks.\n\n4. **Ancient China (Shang Dynasty)**: The Shang Dynasty, which began around 1600 BCE, is one of the earliest recorded Chinese civilizations. It is known for its advances in bronze metallurgy, writing (oracle bones), and a complex social structure.\n\n5. **Mesoamerican Civilizations**: The Olmec civilization, which emerged around 1200 BCE in present-day Mexico, is often considered the \"mother culture\" of Mesoamerica. It laid the groundwork for later civilizations like the Maya and Aztecs, known for their monumental architecture, writing systems, and complex societies.\n\n6. **Norte Chico Civilization (Caral-Supe)**: Located in present-day Peru, this civilization dates back to around 3000 BCE. It is one of the oldest known civilizations in the Americas and is characterized by its large urban centers and complex society.\n\nThese civilizations are notable for their contributions to human culture, governance, technology, and social organization, laying the foundations for future societies.",
+    "prediction_raw": "50"
+  },
+  {
+    "instruction": "Did Ghana lose by 100 against India in a soccer game?",
+    "context": "",
+    "predicted_length": 10.0,
+    "predicted_bin": "Short",
+    "actual_length": 65,
+    "actual_bin": "Medium",
+    "actual_text": "As of my last update in October 2023, there has been no record of Ghana losing a soccer game to India by 100 goals. Such a scoreline would be highly unusual in professional soccer. If this event occurred after my last update, I would recommend checking the latest sports news sources for the most accurate information.",
+    "prediction_raw": "10"
+  },
+  {
+    "instruction": "How is a grilled cheese sandwich prepared?",
+    "context": "",
+    "predicted_length": 50.0,
+    "predicted_bin": "Medium",
+    "actual_length": 382,
+    "actual_bin": "Long",
+    "actual_text": "A grilled cheese sandwich is a simple and delicious meal that can be prepared in just a few steps. Here\u2019s a basic method to make one:\n\n### Ingredients:\n- Bread (2 slices, any type you prefer)\n- Cheese (1-2 slices or shredded, commonly cheddar, American, or your favorite cheese)\n- Butter or margarine (for spreading on the bread)\n\n### Instructions:\n\n1. **Prepare the Bread:**\n   - Take two slices of bread and lay them flat on a clean surface.\n\n2. **Butter the Bread:**\n   - Spread a thin layer of butter or margarine on one side of each slice of bread. This will help achieve a golden, crispy exterior when grilled.\n\n3. **Add the Cheese:**\n   - Place one slice of bread, buttered side down, in a skillet or frying pan over medium heat.\n   - Add the cheese on top of the bread in the skillet.\n   - Place the second slice of bread on top of the cheese, buttered side up.\n\n4. **Grill the Sandwich:**\n   - Cook for about 2-4 minutes, or until the bottom slice of bread is golden brown and the cheese begins to melt.\n   - Carefully flip the sandwich using a spatula and cook the other side for another 2-4 minutes, until it is also golden brown and the cheese is fully melted.\n\n5. **Serve:**\n   - Once both sides are golden and the cheese is melted, remove the sandwich from the skillet.\n   - Let it cool for a minute, then cut it in half if desired, and serve warm.\n\n### Tips:\n- You can add extras like tomatoes, bacon, or avocado for added flavor.\n- Experiment with different types of cheese or bread for unique variations.\n- For a more even melt, you can cover the skillet with a lid while cooking.\n\nEnjoy your grilled cheese sandwich!",
+    "prediction_raw": "50"
+  },
+  {
+    "instruction": "What birds can I find in San Francisco?",
+    "context": "",
+    "predicted_length": 75.0,
+    "predicted_bin": "Medium",
+    "actual_length": 446,
+    "actual_bin": "Long",
+    "actual_text": "San Francisco is home to a diverse array of bird species due to its varied habitats, including coastal areas, parks, and urban environments. Here are some birds you might encounter in the area:\n\n### Coastal and Shore Birds\n- **Western Gull**: Common along the coast and in urban areas.\n- **California Brown Pelican**: Often seen diving for fish along the shoreline.\n- **Black Oystercatcher**: Found on rocky shores and tidal zones.\n- **Sanderling**: A small shorebird often seen running along the beach.\n\n### Waterfowl\n- **American Coot**: Common in parks and wetlands.\n- **Mallard Duck**: Frequently seen in ponds and lakes.\n- **Northern Pintail**: Occasionally spotted in wetland areas.\n\n### Raptors\n- **Red-tailed Hawk**: Commonly seen soaring in the skies or perched on trees.\n- **Peregrine Falcon**: Often found in urban areas, nesting on tall buildings.\n\n### Songbirds\n- **House Sparrow**: Abundant in urban areas.\n- **American Robin**: Common in parks and gardens.\n- **California Towhee**: Often found in shrubby areas and gardens.\n- **Song Sparrow**: Frequently heard singing in parks and wetlands.\n\n### Urban Birds\n- **Rock Pigeon**: Common in urban settings.\n- **European Starling**: Often seen in flocks in urban areas.\n- **Anna's Hummingbird**: A year-round resident, often found in gardens.\n\n### Migratory Birds\n- **Western Sandpiper**: Seen during migration along the coast.\n- **Yellow-rumped Warbler**: Common during migration seasons.\n\n### Special Areas\n- **Golden Gate Park**: A great place to see a variety of songbirds and waterfowl.\n- **Crissy Field**: Good for shorebirds and raptors.\n- **Alcatraz Island**: Home to seabirds like the Brandt's Cormorant.\n\nBirdwatching can be particularly rewarding in San Francisco, especially during migration seasons in spring and fall. Be sure to check local parks and coastal areas for the best opportunities to see a variety of species!",
+    "prediction_raw": "75"
+  },
+  {
+    "instruction": "Which is considered the first human technology?",
+    "context": "",
+    "predicted_length": 15.0,
+    "predicted_bin": "Short",
+    "actual_length": 92,
+    "actual_bin": "Medium",
+    "actual_text": "The first human technology is often considered to be the creation of stone tools. Archaeological evidence suggests that early hominins, such as Homo habilis, began making simple stone tools around 2.6 million years ago. These tools, known as Oldowan tools, were used for various purposes, including cutting, scraping, and processing food. The development of stone tools marked a significant advancement in human evolution, enabling early humans to manipulate their environment more effectively.",
+    "prediction_raw": "15"
+  },
+  {
+    "instruction": "What's the best way to cook a soft-boiled egg?",
+    "context": "",
+    "predicted_length": 50.0,
+    "predicted_bin": "Medium",
+    "actual_length": 349,
+    "actual_bin": "Long",
+    "actual_text": "Cooking a perfect soft-boiled egg is simple and requires just a few steps. Here\u2019s a reliable method:\n\n### Ingredients:\n- Fresh eggs\n- Water\n- Ice (for an ice bath)\n\n### Instructions:\n\n1. **Prepare the Water**: Fill a pot with enough water to cover the eggs by about an inch. Bring the water to a gentle boil.\n\n2. **Add the Eggs**: Once the water is boiling, reduce the heat to a simmer. Carefully lower the eggs into the water using a slotted spoon to prevent cracking.\n\n3. **Timing**: \n   - For a soft-boiled egg with a runny yolk, cook the eggs for **6 to 7 minutes**. \n   - If you prefer a slightly firmer yolk, aim for **8 minutes**.\n\n4. **Ice Bath**: While the eggs are cooking, prepare an ice bath by filling a bowl with ice and cold water. This will stop the cooking process once the eggs are done.\n\n5. **Transfer the Eggs**: After the cooking time is up, use the slotted spoon to transfer the eggs to the ice bath. Let them sit for about 5 minutes.\n\n6. **Peel and Serve**: Gently tap the eggs on a hard surface to crack the shell, then peel under running water for easier removal. Serve immediately, seasoned with salt and pepper, or as desired.\n\n### Tips:\n- Use eggs that are at room temperature for more even cooking.\n- Experiment with timing based on your stove and pot, as variations can affect the outcome.\n- Soft-boiled eggs are great on toast, in ramen, or as a salad topping!\n\nEnjoy your perfectly cooked soft-boiled eggs!",
+    "prediction_raw": "50"
+  },
+  {
+    "instruction": "How do you make brisket on a pellet smoker?",
+    "context": "",
+    "predicted_length": 150.0,
+    "predicted_bin": "Medium",
+    "actual_length": 742,
+    "actual_bin": "Long",
+    "actual_text": "Making brisket on a pellet smoker can yield delicious results with a smoky flavor and tender texture. Here\u2019s a step-by-step guide to help you prepare a mouthwatering brisket:\n\n### Ingredients:\n- 1 whole brisket (10-15 pounds)\n- Your favorite dry rub (store-bought or homemade)\n- Mustard or olive oil (optional, for binding the rub)\n- Wood pellets (hickory, oak, or mesquite are popular choices)\n\n### Equipment:\n- Pellet smoker\n- Meat thermometer\n- Aluminum foil or butcher paper\n- Cutting board\n- Sharp knife\n\n### Instructions:\n\n#### 1. **Preparation:**\n   - **Trim the Brisket:** Trim excess fat from the brisket, leaving about 1/4 inch of fat on the fat cap for moisture and flavor. Remove any silver skin or hard fat.\n   - **Season the Brisket:** Apply a thin layer of mustard or olive oil to help the rub adhere (optional). Generously apply your dry rub all over the brisket, ensuring it\u2019s well-coated. Let it sit at room temperature for about 30-60 minutes to allow the rub to penetrate.\n\n#### 2. **Preheat the Pellet Smoker:**\n   - Set your pellet smoker to 225\u00b0F (107\u00b0C). Allow it to preheat for about 15-20 minutes, ensuring the pellets are ignited and producing smoke.\n\n#### 3. **Smoking the Brisket:**\n   - Place the brisket on the smoker grates, fat side up. This allows the fat to render and baste the meat as it cooks.\n   - Insert a meat thermometer into the thickest part of the brisket to monitor the internal temperature.\n\n#### 4. **Cooking Time:**\n   - Smoke the brisket until it reaches an internal temperature of about 165\u00b0F (74\u00b0C). This can take anywhere from 6 to 10 hours, depending on the size of the brisket and the consistency of your smoker's temperature.\n\n#### 5. **Wrap the Brisket:**\n   - Once the brisket reaches 165\u00b0F, wrap it tightly in aluminum foil or butcher paper. This helps retain moisture and speeds up the cooking process (the \"Texas Crutch\").\n   - Return the wrapped brisket to the smoker and continue cooking until it reaches an internal temperature of 195\u00b0F to 205\u00b0F (90\u00b0C to 96\u00b0C). This can take an additional 2 to 4 hours.\n\n#### 6. **Resting:**\n   - Once the brisket reaches the desired temperature, remove it from the smoker and let it rest for at least 1 hour (up to 2 hours) while still wrapped. This allows the juices to redistribute throughout the meat.\n\n#### 7. **Slicing:**\n   - After resting, unwrap the brisket and place it on a cutting board. Use a sharp knife to slice against the grain. The flat part of the brisket is typically sliced thin, while the point can be cut into thicker pieces or chopped.\n\n#### 8. **Serving:**\n   - Serve the sliced brisket with your favorite barbecue sauce, pickles, and sides like coleslaw or baked beans.\n\n### Tips:\n- **Monitor Temperature:** Use a reliable meat thermometer to ensure accurate readings.\n- **Experiment with Rubs:** Feel free to experiment with different rubs and wood pellet flavors to find your favorite combination.\n- **Patience is Key:** Brisket is a tough cut of meat that benefits from low and slow cooking, so be patient and don\u2019t rush the process.\n\nEnjoy your delicious smoked brisket!",
+    "prediction_raw": "150"
+  },
+  {
+    "instruction": "What is does ELT stand for?",
+    "context": "",
+    "predicted_length": 3.0,
+    "predicted_bin": "Short",
+    "actual_length": 112,
+    "actual_bin": "Medium",
+    "actual_text": "ELT stands for \"Extract, Load, Transform.\" It is a data integration process commonly used in data warehousing and analytics. In ELT, data is first extracted from various sources, then loaded into a target system (such as a data warehouse), and finally transformed into a usable format for analysis. This approach differs from ETL (Extract, Transform, Load), where data is transformed before it is loaded into the target system. ELT is often used in modern data architectures, especially with cloud-based data platforms that can handle large volumes of data efficiently.",
+    "prediction_raw": "3"
+  },
+  {
+    "instruction": "What country has the most all time medals at the Winter Olympics?",
+    "context": "",
+    "predicted_length": 15.0,
+    "predicted_bin": "Short",
+    "actual_length": 59,
+    "actual_bin": "Medium",
+    "actual_text": "As of October 2023, Norway holds the record for the most all-time medals at the Winter Olympics. The country has consistently performed well in various winter sports, particularly in cross-country skiing and biathlon. If you need the most current statistics or details, please verify with the latest sources.",
+    "prediction_raw": "15"
+  },
+  {
+    "instruction": "What is Apu's wife's name on the Simpsons?",
+    "context": "",
+    "predicted_length": 4.0,
+    "predicted_bin": "Short",
+    "actual_length": 27,
+    "actual_bin": "Short",
+    "actual_text": "Apu's wife's name on \"The Simpsons\" is Manjula. She is the mother of Apu's octuplets.",
+    "prediction_raw": "4"
+  },
+  {
+    "instruction": "What is Passover?",
+    "context": "",
+    "predicted_length": 50.0,
+    "predicted_bin": "Medium",
+    "actual_length": 368,
+    "actual_bin": "Long",
+    "actual_text": "Passover, or Pesach in Hebrew, is a major Jewish holiday that commemorates the Exodus of the Israelites from slavery in Egypt, as described in the Book of Exodus in the Hebrew Bible. It typically lasts for seven or eight days, depending on the Jewish tradition, and usually falls in the spring, around March or April.\n\nThe holiday is marked by several key rituals and customs:\n\n1. **Seder**: The Passover Seder is a ceremonial dinner held on the first two nights of Passover (one night in Israel). During the Seder, families gather to read from the Haggadah, a text that outlines the story of the Exodus, and to partake in symbolic foods that represent various aspects of the story.\n\n2. **Matzah**: One of the central symbols of Passover is matzah, unleavened bread that represents the haste with which the Israelites left Egypt, not having time to let their bread rise. During Passover, leavened products (chametz) are forbidden, and families often clean their homes to remove any traces of leaven.\n\n3. **Four Questions**: During the Seder, the youngest child traditionally asks the Four Questions, which inquire about the differences between this night and other nights, prompting the retelling of the Exodus story.\n\n4. **Afikoman**: A piece of matzah is hidden during the Seder, and children search for it later in the evening. This practice adds an element of fun and engagement for younger participants.\n\n5. **Themes of Freedom and Redemption**: Passover is not only a historical remembrance but also a time for reflection on themes of freedom, justice, and the struggle against oppression.\n\nOverall, Passover is a time for family gatherings, religious observance, and the reaffirmation of Jewish identity and heritage.",
+    "prediction_raw": "50"
+  },
+  {
+    "instruction": "Cauliflower rice is not that fun to eat in its bland form. Is there anything interesting and tasty I can cook with cauliflower rice?",
+    "context": "",
+    "predicted_length": 75.0,
+    "predicted_bin": "Medium",
+    "actual_length": 499,
+    "actual_bin": "Long",
+    "actual_text": "Absolutely! Cauliflower rice can be a versatile and delicious base for many dishes. Here are some interesting and tasty ideas to elevate your cauliflower rice:\n\n1. **Cauliflower Fried Rice**: Saut\u00e9 cauliflower rice with vegetables like peas, carrots, and bell peppers. Add scrambled eggs, soy sauce, sesame oil, and green onions for a flavorful dish. You can also include cooked chicken, shrimp, or tofu for protein.\n\n2. **Cauliflower Rice Stir-Fry**: Stir-fry cauliflower rice with your choice of protein (chicken, beef, shrimp, or tofu) and a mix of colorful vegetables. Season with garlic, ginger, and a splash of soy sauce or teriyaki sauce.\n\n3. **Cauliflower Rice Tabbouleh**: Mix cauliflower rice with chopped parsley, mint, tomatoes, cucumber, and red onion. Dress with olive oil, lemon juice, salt, and pepper for a refreshing salad.\n\n4. **Cauliflower Rice Burrito Bowls**: Use cauliflower rice as a base for burrito bowls. Top with black beans, corn, diced tomatoes, avocado, cheese, and your favorite salsa or hot sauce.\n\n5. **Cauliflower Rice Curry**: Cook cauliflower rice with coconut milk, curry paste, and your choice of vegetables (like spinach, bell peppers, and chickpeas) for a creamy and flavorful dish.\n\n6. **Stuffed Peppers**: Mix cauliflower rice with ground meat (or a meat substitute), spices, and tomato sauce. Stuff the mixture into halved bell peppers and bake until the peppers are tender.\n\n7. **Cauliflower Rice Risotto**: Saut\u00e9 cauliflower rice with onions and garlic, then gradually add vegetable or chicken broth, stirring until creamy. Finish with Parmesan cheese, herbs, and saut\u00e9ed mushrooms or peas.\n\n8. **Cauliflower Rice Pizza Crust**: Combine cauliflower rice with cheese, eggs, and seasonings to form a dough. Bake it to create a low-carb pizza crust, then top with your favorite pizza toppings.\n\n9. **Cauliflower Rice Pilaf**: Saut\u00e9 cauliflower rice with onions, garlic, and spices like cumin and turmeric. Add raisins and nuts for a sweet and savory dish.\n\n10. **Cauliflower Rice Casserole**: Mix cauliflower rice with cream cheese, shredded cheese, and cooked vegetables or meat. Bake until bubbly for a comforting casserole.\n\nFeel free to experiment with different spices, herbs, and sauces to find combinations that you enjoy!",
+    "prediction_raw": "75"
+  },
+  {
+    "instruction": "Why pink Floyd is so famous",
+    "context": "",
+    "predicted_length": 150.0,
+    "predicted_bin": "Medium",
+    "actual_length": 446,
+    "actual_bin": "Long",
+    "actual_text": "Pink Floyd is famous for several reasons, which contribute to their status as one of the most influential and iconic rock bands in music history:\n\n1. **Innovative Music**: Pink Floyd is known for their innovative approach to music, blending rock with elements of psychedelia, progressive rock, and experimental sounds. Their use of studio techniques, sound effects, and unconventional song structures set them apart from many of their contemporaries.\n\n2. **Concept Albums**: The band is renowned for their concept albums, particularly \"The Dark Side of the Moon,\" \"Wish You Were Here,\" \"Animals,\" and \"The Wall.\" These albums often explore complex themes such as mental health, alienation, and societal issues, creating a cohesive narrative that resonates with listeners.\n\n3. **Theatrical Live Performances**: Pink Floyd's live shows were groundbreaking, featuring elaborate light shows, visual effects, and theatrical elements. Their concerts became legendary experiences, further enhancing their reputation.\n\n4. **Cultural Impact**: The band's music and themes have had a lasting impact on popular culture. Songs like \"Another Brick in the Wall\" and \"Comfortably Numb\" have become anthems that address universal human experiences and societal critiques.\n\n5. **Artistic Collaboration**: The band's collaboration with visual artists, particularly Storm Thorgerson and his design company Hipgnosis, resulted in iconic album covers that are instantly recognizable and have become part of the band's identity.\n\n6. **Longevity and Evolution**: Pink Floyd's ability to evolve their sound over the years, from their early psychedelic roots to their later, more polished rock sound, has allowed them to remain relevant across generations.\n\n7. **Legacy and Influence**: Many contemporary artists cite Pink Floyd as a major influence on their work. Their innovative spirit and willingness to push musical boundaries have inspired countless musicians and bands.\n\n8. **Critical Acclaim**: Pink Floyd has received numerous awards and accolades, including induction into the Rock and Roll Hall of Fame, and their albums frequently appear on lists of the greatest albums of all time.\n\nOverall, Pink Floyd's combination of musical innovation, thematic depth, and cultural significance has solidified their place in music history and continues to attract new fans.",
+    "prediction_raw": "150"
+  },
+  {
+    "instruction": "What are 5 popular reality TV shows?",
+    "context": "",
+    "predicted_length": 30.0,
+    "predicted_bin": "Short",
+    "actual_length": 176,
+    "actual_bin": "Medium",
+    "actual_text": "Here are five popular reality TV shows:\n\n1. **Survivor** - Contestants are stranded in a remote location and must outwit, outplay, and outlast each other to win a cash prize.\n\n2. **The Bachelor** - A single man dates multiple women over several weeks, eliminating contestants until he chooses one to propose to.\n\n3. **Keeping Up with the Kardashians** - This series follows the lives of the Kardashian-Jenner family, showcasing their personal and professional endeavors.\n\n4. **The Voice** - A singing competition where contestants are judged by celebrity coaches who mentor them through various rounds of the competition.\n\n5. **Big Brother** - Contestants live together in a house under constant surveillance and compete in challenges, with the goal of avoiding eviction and winning a cash prize.\n\nThese shows have garnered significant viewership and cultural impact over the years.",
+    "prediction_raw": "30"
+  },
+  {
+    "instruction": "who is the worlds most popular cricketer?",
+    "context": "",
+    "predicted_length": 15.0,
+    "predicted_bin": "Short",
+    "actual_length": 104,
+    "actual_bin": "Medium",
+    "actual_text": "As of my last update in October 2023, Virat Kohli is often regarded as one of the most popular cricketers in the world, thanks to his impressive performances, charisma, and significant following on social media. Other notable cricketers with substantial popularity include Sachin Tendulkar, MS Dhoni, and contemporary stars like Babar Azam and Ben Stokes. Popularity can vary based on different factors such as performance, fan engagement, and regional support, so it may change over time.",
+    "prediction_raw": "15"
+  },
+  {
+    "instruction": "Who is the winningest college women's basketball coach?",
+    "context": "",
+    "predicted_length": 15.0,
+    "predicted_bin": "Short",
+    "actual_length": 87,
+    "actual_bin": "Medium",
+    "actual_text": "As of my last update in October 2023, the winningest college women's basketball coach is Tara VanDerveer, the head coach of the Stanford Cardinal. She surpassed the previous record held by Pat Summitt. VanDerveer has achieved over 1,100 career wins, making her the all-time leader in wins in NCAA Division I women's basketball. Please verify with the latest sources for any updates or changes since then.",
+    "prediction_raw": "15"
+  },
+  {
+    "instruction": "\"Big Bang\": what does it mean?",
+    "context": "",
+    "predicted_length": 25.0,
+    "predicted_bin": "Short",
+    "actual_length": 322,
+    "actual_bin": "Long",
+    "actual_text": "The term \"Big Bang\" refers to the prevailing cosmological model that describes the origin and evolution of the universe. According to this theory, the universe began approximately 13.8 billion years ago from an extremely hot, dense state and has been expanding ever since. \n\nKey points about the Big Bang include:\n\n1. **Initial Singularity**: The universe started from a singularity, a point of infinite density and temperature, where the laws of physics as we know them break down.\n\n2. **Expansion**: Following the initial explosion, the universe began to expand rapidly. This expansion continues today, and galaxies are moving away from each other.\n\n3. **Cosmic Microwave Background Radiation**: As the universe expanded and cooled, it eventually allowed for the formation of atoms. The remnant heat from the Big Bang can still be detected today as the Cosmic Microwave Background (CMB) radiation, which is a faint glow permeating the universe.\n\n4. **Formation of Elements**: In the first few minutes after the Big Bang, nuclear fusion occurred, leading to the formation of light elements such as hydrogen, helium, and small amounts of lithium.\n\n5. **Structure Formation**: Over billions of years, matter began to clump together under the influence of gravity, leading to the formation of stars, galaxies, and larger cosmic structures.\n\nThe Big Bang theory is supported by various lines of evidence, including the observed redshift of galaxies, the abundance of light elements, and the CMB. It is a fundamental concept in modern cosmology and helps explain the large-scale structure and evolution of the universe.",
+    "prediction_raw": "25"
+  },
+  {
+    "instruction": "What are the things I should consider when purchasing an electric car?",
+    "context": "",
+    "predicted_length": 150.0,
+    "predicted_bin": "Medium",
+    "actual_length": 589,
+    "actual_bin": "Long",
+    "actual_text": "When purchasing an electric car, there are several important factors to consider to ensure you make the best choice for your needs and lifestyle. Here are some key considerations:\n\n1. **Range**: Evaluate the electric vehicle's (EV) range on a full charge. Consider your daily driving habits and whether the range meets your needs for commuting, errands, and longer trips.\n\n2. **Charging Infrastructure**: Investigate the availability of charging stations in your area and along your typical routes. Consider whether you will charge at home, at work, or rely on public charging stations.\n\n3. **Charging Time**: Understand the charging options available (Level 1, Level 2, DC fast charging) and how long it takes to charge the vehicle. If you plan to charge at home, consider the installation of a home charging station.\n\n4. **Battery Life and Warranty**: Look into the battery's lifespan and warranty. Most manufacturers offer warranties for the battery, typically ranging from 8 to 10 years or a certain mileage.\n\n5. **Cost and Incentives**: Compare the purchase price of the EV with similar gasoline vehicles. Research available federal, state, and local incentives or rebates for electric vehicle purchases, which can significantly reduce the overall cost.\n\n6. **Total Cost of Ownership**: Consider the long-term costs, including maintenance, insurance, and electricity costs compared to gasoline. EVs generally have lower maintenance costs due to fewer moving parts.\n\n7. **Performance**: Test drive the vehicle to assess its acceleration, handling, and overall driving experience. Electric cars often provide instant torque and a smooth ride.\n\n8. **Size and Space**: Determine the size of the vehicle that fits your needs, whether you need a compact car, sedan, SUV, or truck. Consider passenger space and cargo capacity.\n\n9. **Features and Technology**: Evaluate the technology and features offered, such as infotainment systems, driver-assistance features, and connectivity options. Some EVs come with advanced tech that enhances the driving experience.\n\n10. **Brand Reputation and Reviews**: Research the manufacturer\u2019s reputation for reliability, customer service, and the overall satisfaction of current owners. Look for reviews and ratings from trusted automotive sources.\n\n11. **Environmental Impact**: Consider the environmental benefits of driving an electric vehicle, including reduced greenhouse gas emissions and lower air pollution.\n\n12. **Future Resale Value**: Investigate the resale value of the EV model you are considering. Some electric vehicles hold their value better than others.\n\n13. **Local Climate and Driving Conditions**: Consider how your local climate may affect battery performance. Extreme temperatures can impact range and charging efficiency.\n\n14. **Availability of Models**: Check the availability of the models you are interested in, as some may have long wait times or limited inventory.\n\nBy carefully considering these factors, you can make a more informed decision when purchasing an electric car that aligns with your needs and preferences.",
+    "prediction_raw": "150"
+  },
+  {
+    "instruction": "Give me 3 ideas for an instant serotonin boost.",
+    "context": "",
+    "predicted_length": 45.0,
+    "predicted_bin": "Short",
+    "actual_length": 151,
+    "actual_bin": "Medium",
+    "actual_text": "Here are three ideas for an instant serotonin boost:\n\n1. **Physical Activity**: Engage in a quick burst of exercise, such as a brisk walk, dancing to your favorite song, or doing a short workout. Physical activity releases endorphins and can significantly elevate your mood.\n\n2. **Gratitude Journaling**: Take a few minutes to write down three things you are grateful for. Focusing on positive aspects of your life can shift your mindset and increase feelings of happiness and contentment.\n\n3. **Connect with Nature**: Spend some time outside, whether it\u2019s sitting in a park, taking a walk in the woods, or simply enjoying the sunshine. Nature has a calming effect and can help boost your mood and overall well-being.",
+    "prediction_raw": "45"
+  },
+  {
+    "instruction": "What is a useful set of criteria to use when determining who has a lot of leadership potential in my team?",
+    "context": "",
+    "predicted_length": 150.0,
+    "predicted_bin": "Medium",
+    "actual_length": 518,
+    "actual_bin": "Long",
+    "actual_text": "Identifying leadership potential within your team is crucial for fostering growth and ensuring the long-term success of your organization. Here are some useful criteria to consider when evaluating leadership potential:\n\n1. **Communication Skills**: Look for individuals who can articulate their thoughts clearly and effectively, both in writing and verbally. They should be able to listen actively and engage in meaningful conversations.\n\n2. **Emotional Intelligence**: Assess their ability to understand and manage their own emotions, as well as empathize with others. High emotional intelligence often correlates with strong leadership capabilities.\n\n3. **Problem-Solving Ability**: Identify team members who demonstrate critical thinking and creativity in addressing challenges. They should be able to analyze situations, consider various perspectives, and propose effective solutions.\n\n4. **Adaptability**: Evaluate how well individuals respond to change and uncertainty. Leaders often need to pivot quickly and remain resilient in the face of challenges.\n\n5. **Initiative and Proactivity**: Look for team members who take the initiative to go beyond their assigned tasks, seek out new opportunities, and propose improvements. They should demonstrate a willingness to take responsibility.\n\n6. **Collaboration and Teamwork**: Assess their ability to work well with others, build relationships, and foster a collaborative environment. Strong leaders often inspire and motivate their peers.\n\n7. **Vision and Strategic Thinking**: Identify individuals who can see the bigger picture and think strategically about the future. They should be able to set goals and inspire others to work towards a common vision.\n\n8. **Accountability and Integrity**: Look for team members who take ownership of their actions, admit mistakes, and uphold ethical standards. Trustworthiness is a key trait of effective leaders.\n\n9. **Mentorship and Development of Others**: Evaluate their willingness to support and mentor colleagues. Leaders often invest in the growth of their team members and help them develop their skills.\n\n10. **Results Orientation**: Consider their track record of achieving goals and delivering results. Strong leaders are often focused on outcomes and can drive performance.\n\n11. **Feedback Reception and Growth Mindset**: Assess how well individuals accept feedback and their willingness to learn and grow. A growth mindset is essential for continuous improvement.\n\n12. **Cultural Fit and Values Alignment**: Ensure that potential leaders align with the organization's values and culture. They should embody the principles that your organization stands for.\n\nBy using these criteria, you can create a comprehensive framework for identifying leadership potential within your team. It may also be helpful to gather input from peers and supervisors to gain a well-rounded perspective on each individual's capabilities.",
+    "prediction_raw": "150"
+  },
+  {
+    "instruction": "Give me a title of one of the \"Harry Potter\" novels.",
+    "context": "",
+    "predicted_length": 6.0,
+    "predicted_bin": "Short",
+    "actual_length": 28,
+    "actual_bin": "Short",
+    "actual_text": "\"Harry Potter and the Sorcerer's Stone\" (also known as \"Harry Potter and the Philosopher's Stone\" in some regions).",
+    "prediction_raw": "6"
+  },
+  {
+    "instruction": "What is aliasing?",
+    "context": "",
+    "predicted_length": 50.0,
+    "predicted_bin": "Short",
+    "actual_length": 340,
+    "actual_bin": "Long",
+    "actual_text": "Aliasing is a phenomenon that occurs in various fields, particularly in signal processing, computer graphics, and data analysis, when a signal or data is sampled or represented in a way that leads to misinterpretation or distortion of the original information.\n\n### In Signal Processing:\nIn the context of signal processing, aliasing happens when a continuous signal is sampled at a rate that is insufficient to capture its variations accurately. According to the Nyquist-Shannon sampling theorem, to avoid aliasing, a signal must be sampled at least twice the highest frequency present in the signal (the Nyquist rate). If the sampling rate is lower than this, higher frequency components of the signal can be misrepresented as lower frequencies, leading to distortion.\n\n### In Computer Graphics:\nIn computer graphics, aliasing refers to the visual artifacts that occur when high-frequency detail in an image is not adequately represented due to limited resolution. This can manifest as jagged edges (often referred to as \"jaggies\") or moir\u00e9 patterns. Techniques such as anti-aliasing are used to smooth out these artifacts by blending colors at the edges or using higher resolution textures.\n\n### In Data Analysis:\nIn data analysis, aliasing can occur when data is aggregated or sampled in a way that obscures the underlying patterns or trends. For example, if data is collected at too coarse a granularity, important variations may be lost, leading to misleading conclusions.\n\n### Summary:\nOverall, aliasing is a critical concept to understand in various domains, as it can lead to significant errors in interpretation and representation of data or signals. Techniques to mitigate aliasing include proper sampling rates, anti-aliasing methods in graphics, and careful data aggregation strategies.",
+    "prediction_raw": "50"
+  },
+  {
+    "instruction": "Give me a list of things to enable a support team on their technical strengths",
+    "context": "",
+    "predicted_length": 75.0,
+    "predicted_bin": "Medium",
+    "actual_length": 568,
+    "actual_bin": "Long",
+    "actual_text": "Enabling a support team to leverage their technical strengths involves providing them with the right tools, training, and resources. Here\u2019s a comprehensive list of things to consider:\n\n### Training and Development\n1. **Technical Training Programs**: Regular workshops and courses on relevant technologies, tools, and systems.\n2. **Certifications**: Encourage team members to pursue industry-recognized certifications (e.g., CompTIA, Cisco, Microsoft).\n3. **Cross-Training**: Facilitate knowledge sharing among team members to broaden their skill sets.\n4. **Soft Skills Training**: Provide training on communication, empathy, and problem-solving to enhance customer interactions.\n\n### Tools and Resources\n5. **Knowledge Base**: Create a centralized repository of documentation, FAQs, and troubleshooting guides.\n6. **Ticketing System**: Implement a robust ticketing system to track issues and resolutions efficiently.\n7. **Remote Access Tools**: Equip the team with tools to remotely access customer systems for troubleshooting.\n8. **Collaboration Tools**: Use platforms like Slack, Microsoft Teams, or Asana for real-time communication and project management.\n9. **Monitoring Tools**: Provide access to monitoring and diagnostic tools to proactively identify issues.\n\n### Processes and Best Practices\n10. **Standard Operating Procedures (SOPs)**: Develop clear SOPs for common issues and escalation processes.\n11. **Regular Feedback Loops**: Establish a system for gathering feedback from team members on processes and tools.\n12. **Incident Management Framework**: Implement a structured approach to incident management to streamline responses.\n\n### Empowerment and Autonomy\n13. **Decision-Making Authority**: Empower team members to make decisions within their scope to resolve issues quickly.\n14. **Recognition Programs**: Acknowledge and reward team members for their technical contributions and problem-solving efforts.\n\n### Community and Networking\n15. **Internal Tech Forums**: Create forums or discussion groups for team members to share knowledge and experiences.\n16. **External Networking**: Encourage participation in industry conferences, webinars, and local meetups to stay updated on trends.\n\n### Continuous Improvement\n17. **Performance Metrics**: Establish KPIs to measure technical performance and customer satisfaction.\n18. **Post-Mortem Analysis**: Conduct reviews of major incidents to identify lessons learned and areas for improvement.\n19. **Innovation Time**: Allocate time for team members to explore new technologies or work on personal projects that can benefit the team.\n\n### Leadership and Support\n20. **Mentorship Programs**: Pair less experienced team members with seasoned professionals for guidance and support.\n21. **Open-Door Policy**: Foster an environment where team members feel comfortable discussing challenges and seeking help.\n\nBy implementing these strategies, you can empower your support team to maximize their technical strengths, improve their performance, and enhance customer satisfaction.",
+    "prediction_raw": "75"
+  },
+  {
+    "instruction": "What are the biggest cloud providers",
+    "context": "",
+    "predicted_length": 50.0,
+    "predicted_bin": "Medium",
+    "actual_length": 385,
+    "actual_bin": "Long",
+    "actual_text": "As of my last update in October 2023, the biggest cloud service providers are:\n\n1. **Amazon Web Services (AWS)**: A subsidiary of Amazon, AWS is one of the largest and most comprehensive cloud platforms, offering a wide range of services including computing power, storage options, and networking.\n\n2. **Microsoft Azure**: Microsoft's cloud platform provides a variety of services, including analytics, storage, and networking, and is known for its integration with Microsoft products.\n\n3. **Google Cloud Platform (GCP)**: Google Cloud offers a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products.\n\n4. **IBM Cloud**: IBM offers a range of cloud services, including IaaS, PaaS, and SaaS, with a strong focus on enterprise solutions and hybrid cloud environments.\n\n5. **Oracle Cloud**: Oracle provides cloud services that focus on database management, enterprise applications, and cloud infrastructure.\n\n6. **Alibaba Cloud**: The cloud computing arm of Alibaba Group, it is a major player in Asia and offers a wide range of cloud services.\n\n7. **Salesforce**: Primarily known for its customer relationship management (CRM) software, Salesforce also offers cloud services that support various business applications.\n\n8. **DigitalOcean**: Known for its simplicity and developer-friendly approach, DigitalOcean is popular among startups and small to medium-sized businesses.\n\n9. **VMware Cloud**: VMware provides cloud infrastructure and management solutions, particularly for businesses looking to integrate their on-premises environments with the cloud.\n\n10. **Tencent Cloud**: A major player in China, Tencent Cloud offers a variety of cloud services and is part of Tencent Holdings.\n\nThese providers dominate the cloud market, but there are many other smaller and specialized cloud service providers that cater to specific needs or industries. The landscape is continually evolving, with new entrants and innovations emerging regularly.",
+    "prediction_raw": "50"
+  },
+  {
+    "instruction": "Which parts of India were largely affected by the cyclone Bulbul?",
+    "context": "",
+    "predicted_length": 25.0,
+    "predicted_bin": "Medium",
+    "actual_length": 100,
+    "actual_bin": "Medium",
+    "actual_text": "Cyclone Bulbul, which formed in November 2019, primarily affected the eastern coast of India, particularly the states of West Bengal and Odisha. The cyclone made landfall near the Sundarbans region in West Bengal, leading to heavy rainfall, strong winds, and significant damage in coastal areas. Additionally, parts of Assam and Tripura also experienced the effects of the cyclone, including heavy rainfall and flooding. The impact included damage to infrastructure, agriculture, and displacement of people in the affected regions.",
+    "prediction_raw": "25"
+  },
+  {
+    "instruction": "What is investment banking?",
+    "context": "",
+    "predicted_length": 50.0,
+    "predicted_bin": "Medium",
+    "actual_length": 422,
+    "actual_bin": "Long",
+    "actual_text": "Investment banking is a specialized segment of the financial services industry that focuses on helping organizations, governments, and other entities raise capital and provide advisory services for mergers, acquisitions, and other financial transactions. Investment banks act as intermediaries between issuers of securities and the investing public, facilitating the buying and selling of financial instruments.\n\nKey functions of investment banking include:\n\n1. **Underwriting**: Investment banks help companies issue new securities, such as stocks and bonds, by underwriting the offering. This involves assessing the value of the securities, determining the appropriate price, and buying the securities from the issuer to sell them to investors.\n\n2. **Advisory Services**: Investment banks provide strategic advice to clients on mergers and acquisitions (M&A), restructurings, and other financial transactions. They help clients identify potential targets or buyers, negotiate terms, and navigate the complexities of the deal.\n\n3. **Capital Raising**: Investment banks assist companies in raising capital through various means, including initial public offerings (IPOs), private placements, and debt issuance. They help structure the deals and connect issuers with potential investors.\n\n4. **Market Making**: Some investment banks engage in market-making activities, providing liquidity to the markets by buying and selling securities. This helps facilitate trading and ensures that there is a market for various financial instruments.\n\n5. **Research**: Investment banks often have research divisions that analyze market trends, industries, and specific companies. This research can inform investment decisions and provide insights to clients.\n\n6. **Sales and Trading**: Investment banks have sales and trading desks that execute buy and sell orders for clients and manage the bank's own trading activities. They deal with a wide range of financial products, including equities, fixed income, derivatives, and commodities.\n\nInvestment banking is typically divided into two main areas: **bulge bracket banks**, which are large, multinational firms that offer a full range of services, and **boutique banks**, which are smaller firms that specialize in specific sectors or services. The industry is known for its high-pressure environment, long hours, and significant financial rewards for successful professionals.",
+    "prediction_raw": "50"
+  },
+  {
+    "instruction": "Give me a bulleted list of 5 outdoor activities I could do this weekend.",
+    "context": "",
+    "predicted_length": 30.0,
+    "predicted_bin": "Short",
+    "actual_length": 138,
+    "actual_bin": "Medium",
+    "actual_text": "Sure! Here are five outdoor activities you could consider for this weekend:\n\n- **Hiking**: Explore a local trail or nature reserve and enjoy the scenery.\n- **Picnicking**: Pack a lunch and head to a nearby park for a relaxing picnic with friends or family.\n- **Biking**: Take a bike ride through your neighborhood or on a designated bike path.\n- **Kayaking or Canoeing**: Spend some time on the water by renting a kayak or canoe at a local lake or river.\n- **Gardening**: Get your hands dirty by planting flowers, vegetables, or herbs in your garden or in pots on your balcony. \n\nEnjoy your weekend!",
+    "prediction_raw": "30"
+  },
+  {
+    "instruction": "Name some  active NBA famous players",
+    "context": "",
+    "predicted_length": 15.0,
+    "predicted_bin": "Short",
+    "actual_length": 167,
+    "actual_bin": "Medium",
+    "actual_text": "As of October 2023, here are some active NBA players who are well-known and have made significant impacts in the league:\n\n1. **LeBron James** - Los Angeles Lakers\n2. **Kevin Durant** - Phoenix Suns\n3. **Stephen Curry** - Golden State Warriors\n4. **Giannis Antetokounmpo** - Milwaukee Bucks\n5. **Luka Don\u010di\u0107** - Dallas Mavericks\n6. **Kawhi Leonard** - Los Angeles Clippers\n7. **Nikola Joki\u0107** - Denver Nuggets\n8. **Joel Embiid** - Philadelphia 76ers\n9. **James Harden** - Philadelphia 76ers\n10. **Damian Lillard** - Milwaukee Bucks\n\nThese players are recognized for their skills, achievements, and contributions to the game.",
+    "prediction_raw": "15"
+  },
+  {
+    "instruction": "Give me a bullet list of five different European languages",
+    "context": "",
+    "predicted_length": 25.0,
+    "predicted_bin": "Short",
+    "actual_length": 23,
+    "actual_bin": "Short",
+    "actual_text": "Sure! Here are five different European languages:\n\n- Spanish\n- French\n- German\n- Italian\n- Dutch",
+    "prediction_raw": "25"
+  },
+  {
+    "instruction": "Who shot Mr. Burns on the Simpsons?",
+    "context": "",
+    "predicted_length": 10.0,
+    "predicted_bin": "Short",
+    "actual_length": 57,
+    "actual_bin": "Medium",
+    "actual_text": "Mr. Burns was shot by Maggie Simpson in the two-part episode titled \"Who Shot Mr. Burns?\" from Season 6 and Season 7 of *The Simpsons*. The storyline reveals that Maggie accidentally shot Mr. Burns while trying to protect her mother, Marge, from him.",
+    "prediction_raw": "10"
+  },
+  {
+    "instruction": "Why democracy doesn't works and in old times we had autocracy?",
+    "context": "",
+    "predicted_length": 150.0,
+    "predicted_bin": "Medium",
+    "actual_length": 541,
+    "actual_bin": "Long",
+    "actual_text": "The effectiveness of democracy versus autocracy is a complex and nuanced topic, and opinions on it can vary widely based on historical context, cultural factors, and individual perspectives. Here are some points to consider regarding why some people believe democracy may not work as effectively as autocracy, as well as the historical context of governance:\n\n### Challenges of Democracy\n\n1. **Voter Apathy and Disengagement**: In many democratic systems, citizens may feel disillusioned or apathetic, leading to low voter turnout and engagement. This can result in a government that does not accurately represent the will of the people.\n\n2. **Polarization and Partisanship**: Democracies can become highly polarized, with political parties focusing more on winning elections than on governance. This can lead to gridlock and an inability to pass important legislation.\n\n3. **Influence of Money in Politics**: In many democracies, the influence of money can skew political power towards wealthy individuals or corporations, undermining the principle of equal representation.\n\n4. **Misinformation and Media Influence**: The rise of misinformation and biased media can distort public perception and decision-making, leading to poor electoral choices.\n\n5. **Complexity of Governance**: Democracies often involve complex systems of checks and balances, which can slow down decision-making and make it difficult to respond quickly to crises.\n\n### Historical Context of Autocracy\n\n1. **Efficiency in Decision-Making**: Autocratic regimes can often make decisions quickly and implement policies without the need for consensus or debate, which can be advantageous in times of crisis.\n\n2. **Stability**: Some argue that autocracies can provide a sense of stability and order, especially in societies that may be fragmented or facing significant challenges.\n\n3. **Historical Precedents**: In many ancient societies, autocratic rule was seen as a natural order, often justified by divine right or the need for strong leadership in turbulent times.\n\n4. **Cultural Factors**: In some cultures, there may be a historical preference for strong, centralized authority, which can lead to a greater acceptance of autocratic governance.\n\n### Conclusion\n\nWhile autocracy may have worked in certain historical contexts, it often comes with significant drawbacks, including the potential for abuse of power, lack of individual freedoms, and suppression of dissent. Democracies, despite their challenges, are generally seen as more conducive to protecting human rights and allowing for public participation in governance.\n\nUltimately, the effectiveness of any form of government depends on a variety of factors, including the political culture, economic conditions, and the specific historical context of a society. Each system has its strengths and weaknesses, and the debate over which is better continues to evolve.",
+    "prediction_raw": "150"
+  },
+  {
+    "instruction": "What public health inventions did Louis Pasteur contribute to society?",
+    "context": "",
+    "predicted_length": 85.0,
+    "predicted_bin": "Medium",
+    "actual_length": 323,
+    "actual_bin": "Long",
+    "actual_text": "Louis Pasteur made several significant contributions to public health through his pioneering work in microbiology and immunology. Some of his key inventions and contributions include:\n\n1. **Germ Theory of Disease**: Pasteur's research helped establish the germ theory, which posits that many diseases are caused by microorganisms. This fundamentally changed the understanding of disease transmission and laid the groundwork for modern microbiology and public health practices.\n\n2. **Pasteurization**: He developed the process of pasteurization, which involves heating liquids (such as milk and wine) to kill harmful bacteria without affecting the quality of the product. This process significantly improved food safety and public health by reducing the incidence of foodborne illnesses.\n\n3. **Vaccination**: Pasteur created vaccines for several diseases, most notably:\n   - **Rabies Vaccine**: He developed the first effective rabies vaccine in 1885, which has saved countless lives and is still used today.\n   - **Anthrax Vaccine**: He also developed a vaccine for anthrax, which was a major breakthrough in veterinary medicine and public health.\n\n4. **Surgical Asepsis**: Although not directly his invention, Pasteur's work on germ theory influenced the development of aseptic techniques in surgery, leading to safer surgical practices and reduced infection rates.\n\n5. **Public Health Policies**: His research and findings contributed to the establishment of public health policies aimed at controlling infectious diseases, improving sanitation, and promoting vaccination programs.\n\nOverall, Pasteur's contributions have had a lasting impact on public health, significantly reducing the burden of infectious diseases and improving food safety.",
+    "prediction_raw": "85"
+  },
+  {
+    "instruction": "What is social media?",
+    "context": "",
+    "predicted_length": 15.0,
+    "predicted_bin": "Medium",
+    "actual_length": 270,
+    "actual_bin": "Long",
+    "actual_text": "Social media refers to digital platforms and technologies that enable users to create, share, and exchange content, ideas, and information in virtual communities and networks. These platforms facilitate communication and interaction among individuals, groups, and organizations, allowing users to connect with others, engage in discussions, and share various forms of media, such as text, images, videos, and links.\n\nKey characteristics of social media include:\n\n1. **User-generated content**: Users create and share their own content, which can range from personal updates to professional articles.\n\n2. **Interactivity**: Social media allows for two-way communication, enabling users to comment, like, share, and respond to others' posts.\n\n3. **Networking**: Users can connect with friends, family, colleagues, and even strangers who share similar interests or backgrounds.\n\n4. **Community building**: Social media platforms often foster communities around specific topics, interests, or causes, allowing users to engage with like-minded individuals.\n\n5. **Real-time communication**: Many social media platforms facilitate instant communication, enabling users to share updates and news as events unfold.\n\nPopular social media platforms include Facebook, Twitter, Instagram, LinkedIn, TikTok, and Snapchat, among others. Social media has become an integral part of modern communication, influencing various aspects of society, including marketing, politics, and personal relationships.",
+    "prediction_raw": "15"
+  },
+  {
+    "instruction": "Why do players smear black under their eyes?",
+    "context": "",
+    "predicted_length": 50.0,
+    "predicted_bin": "Medium",
+    "actual_length": 93,
+    "actual_bin": "Medium",
+    "actual_text": "Players often smear black under their eyes to reduce glare from sunlight or bright lights, which can improve visibility and focus during games. This practice is commonly seen in sports like football, baseball, and hockey. The black markings, often referred to as \"eye black,\" are believed to absorb light and minimize reflections, helping athletes maintain better concentration on the field or court. Additionally, some players use it as a form of personal expression or to create a certain image or persona.",
+    "prediction_raw": "50"
+  },
+  {
+    "instruction": "Which USA government agency is responsible for preventing diseases?",
+    "context": "",
+    "predicted_length": 12.0,
+    "predicted_bin": "Short",
+    "actual_length": 50,
+    "actual_bin": "Medium",
+    "actual_text": "The primary U.S. government agency responsible for preventing diseases is the Centers for Disease Control and Prevention (CDC). The CDC focuses on public health and safety by controlling and preventing disease, injury, and disability through research, education, and health promotion initiatives.",
+    "prediction_raw": "12"
+  },
+  {
+    "instruction": "How do you call the Arkansas Razorbacks?",
+    "context": "",
+    "predicted_length": 5.0,
+    "predicted_bin": "Short",
+    "actual_length": 69,
+    "actual_bin": "Medium",
+    "actual_text": "The Arkansas Razorbacks are often referred to simply as the \"Razorbacks\" or \"Hogs.\" The nickname \"Hogs\" is a nod to the state's history and culture, particularly in relation to the Arkansas Razorback football team. Fans and supporters of the team are commonly called \"Razorback fans\" or \"Hog fans.\"",
+    "prediction_raw": "5"
+  },
+  {
+    "instruction": "What is data denormalization in data warehouse?",
+    "context": "",
+    "predicted_length": 75.0,
+    "predicted_bin": "Medium",
+    "actual_length": 461,
+    "actual_bin": "Long",
+    "actual_text": "Data denormalization is a database design technique used primarily in data warehousing and data marts to improve query performance and simplify data retrieval. It involves the process of intentionally introducing redundancy into a database by combining tables or adding redundant data to existing tables. This is in contrast to normalization, which aims to reduce redundancy and dependency by organizing data into smaller, related tables.\n\n### Key Aspects of Data Denormalization:\n\n1. **Performance Optimization**: Denormalization is often employed to enhance the performance of read-heavy operations, which are common in data warehousing environments. By reducing the number of joins needed to retrieve data, queries can execute faster.\n\n2. **Simplified Queries**: Denormalized structures can lead to simpler SQL queries. With fewer tables to join, the complexity of queries is reduced, making it easier for analysts and business users to access the data they need.\n\n3. **Data Redundancy**: While denormalization introduces redundancy, it is a controlled form of redundancy that is acceptable in a data warehouse context. This redundancy can help speed up data retrieval but may require additional storage space.\n\n4. **Star and Snowflake Schemas**: Denormalization is often associated with specific data modeling techniques like star and snowflake schemas. In a star schema, fact tables are surrounded by denormalized dimension tables, which can lead to faster query performance. In a snowflake schema, dimension tables are normalized, but denormalization can still be applied to improve performance.\n\n5. **Trade-offs**: While denormalization can improve performance, it can also lead to challenges such as increased storage requirements and potential data integrity issues. Careful consideration is needed to balance the benefits of faster query performance against the drawbacks of redundancy.\n\n6. **Use Cases**: Denormalization is particularly useful in scenarios where read operations significantly outnumber write operations, such as in reporting and analytics applications. It is less common in transactional systems where data integrity and normalization are more critical.\n\n### Conclusion\n\nIn summary, data denormalization is a strategic approach in data warehousing that focuses on optimizing query performance and simplifying data access by intentionally introducing redundancy into the data model. It is a key consideration for data architects and engineers when designing systems that need to handle large volumes of data and complex queries efficiently.",
+    "prediction_raw": "75"
+  }
+]

@@ -1,0 +1,6 @@
+# Exclude all data files
+*
+!README.md
+!.gitignore
+!**/samples/
+!**/samples.json
